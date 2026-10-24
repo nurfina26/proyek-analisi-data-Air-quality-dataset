@@ -8,7 +8,7 @@ Proyek Analisis Data Air Quality Dataset Beijing 2013-2017
 pip install -r requirements.txt
 
 ## Run Streamlit App
-streamlit run Dashboard/dashboard.py
+streamlit run Dashboard/Dashboard.py
 
 ## Link
 - Live Dashboard: https://ynvj2mdzomvcn3v4bzjgqn.streamlit.app/
